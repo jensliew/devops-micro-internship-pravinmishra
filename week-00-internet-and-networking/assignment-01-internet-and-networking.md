@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/task1.png)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,8 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
-
+I learned that a networking protocol is a set of agreed rules that devices follow when they communicate. It is similar to people agreeing on how to start, speak during, and end a phone call. These rules help devices send and receive information correctly.
 ---
 
 # 🌐 Task 2: Internet and Networking
@@ -59,8 +58,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
-
+When a person in the USA opens the EpicReads website, their browser first needs the IP address of the server in Finland. An IP address is like the server’s numerical street address, so data knows where to go. The browser sends a request across many networks using TCP/IP. TCP breaks information into packets, checks that they arrive, and puts them back in the correct order; IP helps route each packet to the Finnish server. Packet switching means the packets can travel through different available routes instead of one fixed path. Finally, HTTP carries the web request and response. HTTPS is the secure version of HTTP: it encrypts the connection so details such as login information and payment data are protected while travelling across the internet.
 ---
 
 # 🏗️ Task 3: Application Architecture & Stack
@@ -91,7 +89,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/task3.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +100,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+- HTML and CSS
+- JavaScript and React
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+- Node.js with Express
+- Python with Django or Flask
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+- MySQL
+- PostgreSQL
 
 ---
 
@@ -142,8 +140,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
-
+DNS, or Domain Name System, works like the internet’s contact list. It translates a memorable name such as epicreads.com into the IP address of the server that hosts the site. EpicReads should use an A record because an A record maps a domain name to an IPv4 address, in this case 52,172,142,222. Port 3000 is not included in the A record; it is handled by the application URL or by a reverse proxy or web server configuration.
 ---
 
 # 💻 Task 5: Visual Studio Code Setup (Hands-on)
@@ -178,7 +175,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/task5.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -230,8 +227,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
-```
+https://lnkd.in/p/gN7EJycT```
 
 ---
 
@@ -239,28 +235,49 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+I’ve completed Week 00 of my DevOps Micro Internship journey, where I built a stronger foundation in internet networking, application architecture, DNS, and essential developer tools. I now have a clearer idea of what happens behind the scenes when a website loads — thankfully, it is more than just hoping the Wi-Fi behaves. 😄
 
+I’m learning through the DevOps Micro Internship, a self-paced and hands-on programme where we complete practical weekly tasks, track our progress publicly, and compete on a leaderboard. A little friendly competition is a good reason not to postpone the next assignment.
+
+This week focused on the foundations behind the websites and tools we use every day.
+
+💬 ChatGPT as a learning assistant  
+I practised writing clearer prompts to understand networking protocols in simple language. My biggest lesson: asking a better question usually gives a much better answer.
+
+🌐 Internet & Networking  
+I learned how someone in the USA can access a website hosted in Finland. IP addresses point data in the right direction, TCP/IP helps deliver it properly, packet switching finds a route, and HTTPS keeps private information private.
+
+🏗️ Application Architecture  
+I compared two-tier and three-tier applications. Adding a backend layer makes much more sense now — it is basically the organised middle person between the frontend and the database.
+
+🌍 DNS  
+DNS is like the internet’s contact list: we type `epicreads.com`, and DNS helps find the server’s IP address. For an IPv4 server, the correct record is an A record.
+
+💻 VS Code Setup  
+I explored VS Code and its integrated terminal. It was satisfying to run a few commands and actually understand what they were showing me — small wins count.
+
+Week 00 was a great starting point. On to the next task, the next skill, and hopefully a slightly higher leaderboard position. 🚀
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/jensliew.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus
+
+#DMIByPravinMishra #DevOps #Networking #LearningInPublic #VSCode #CloudComputing
 ---
 
 # Reflection – Week 0
 
 ### What did you find easy?
 
-Add your answer here...
-
+I found it easy to understand DNS because it works like finding a contact by name instead of remembering a phone number. I also enjoyed exploring VS Code and using its integrated terminal.
 ---
 
 ### What was difficult?
 
-Add your answer here...
-
+At first, it was difficult to understand how IP addresses, packet switching, TCP/IP, and HTTPS all work together when someone opens a website. Drawing the application architectures helped make the roles of each layer clearer.
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
-
+Next week, I will practise terminal commands more regularly and improve how I explain technical concepts in simple language. I also want to become more confident with GitHub and keep my assignment evidence organised as I work.
 ---
 
 ## 📌 About DMI & CloudAdvisory
