@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that reading and discipline are two of the most underrated investments a person can make, precisely because their payoff is invisible in the short term. Most people around me judge an effort by whether it produces a result this week or this month, and when reading a book or sticking to a routine doesn't change anything immediately, they write it off as a waste of time. I don't see it that way. I think in compounding terms, not in single-day wins. The hours spent reading and the discipline of showing up consistently don't disappear just because nothing changes today, they accumulate quietly and eventually show up as better judgment, faster learning, and sharper decision-making years down the line. Success, to me, isn't a single event or a lucky break; it's the long-term output of habits most people give up on too early because they wanted proof before they were willing to commit.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Specific external stimuli, like classical music, can reliably shift my mental and emotional state on demand rather than motivation being something I have to passively wait for.
 
 ### Evidence from my life
 
-Add your answer here...
+Whenever I feel low on energy or unmotivated, I listen to Mozart's Piano Concerto No. 17 in G Major, K. 453. Every time, I notice a measurable lift in energy and focus afterward, and I'm able to get back into productive work faster than if I just waited for motivation to return on its own.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Small amounts of money, invested consistently over time, compound into meaningful growth, starting early and staying consistent matters far more than the size of any single contribution.
 
 ### Evidence from my life
 
-Add your answer here...
+I started investing a small, fixed amount every month instead of waiting until I had "enough" to invest. Over time, that consistency turned into real, compounding growth, proving that the habit of investing regularly mattered more than how much I put in at any one time.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Reading is a shortcut to experience, it lets me learn from other people's documented mistakes so I don't have to repeat them myself.
 
 ### Evidence from my life
 
-Add your answer here...
+When I read books where the author openly shares mistakes they made in their career, finances, or personal life, I've been able to recognize similar situations early in my own path and adjust course before making the same error, instead of learning it the slow and costly way through firsthand experience.
 
 ---
 
@@ -145,13 +145,25 @@ Add the following credit note at the end of your post **(If you are DMI Campus s
 
 ## Your Article
 
-Add your answer here...
+**From Student Builder to DevOps Engineer: Jens Liew's Journey Into Cloud and AI Automation**
+
+Seven years ago, Jens Liew was a university student juggling coursework with a leadership role as Vice President of the AWS Student Builder Group at APU. Today, that early groundwork has paid off in a career built deliberately, one certification and one shipped project at a time.
+
+It started with the fundamentals. Jens Liew earned the AWS Certified Cloud Practitioner certification first, then followed it with the AWS Certified Developer – Associate and AWS Certified Solutions Architect – Associate certifications, building a technical foundation that spanned both development and infrastructure. That combination turned out to be rare, and it became a defining strength.
+
+At a fintech AI platform, Jens Liew led the design and rollout of a CI/CD pipeline built entirely on cloud infrastructure, replacing a slow, manual release process with continuous deployment that let the engineering team ship updates safely, multiple times a day instead of once every few weeks. Building on that, Jens Liew automated the company's payment processing workflows, cutting manual intervention and reducing errors in a system where accuracy wasn't optional. That automation work became a core piece of the company's fintech AI platform, fully integrated into the product rather than bolted on as an afterthought.
+
+Alongside the technical work, Jens Liew never stepped away from community. As VP of the AWS Student Builder Group, Jens Liew restructured how the group operated, smoothing communication between members and helping the team bond around shared projects instead of just shared meetings. That same instinct for making operations run smoother followed Jens Liew into the workplace, where colleagues came to rely on them not just for code, but for keeping systems and people aligned.
+
+The long-term goal was never a secret: joining AWS. After years of building real production systems, earning associate-level certifications, and leading a technical community, Jens Liew joined AWS, starting in an entry-level position and treating it as the beginning of the next chapter rather than the end goal.
+
+Looking back, none of it happened overnight. It was built certification by certification, pipeline by pipeline, and person by person.
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/shen-wei-liew-9341a430b_dmi-devops-micro-internship-with-agentic-activity-7505228692361666560-wF_w`
 
 ---
 
@@ -183,7 +195,9 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+**Yes.**
+
+In the moment, taking the shortcut felt good, it got things settled quickly, and there was relief in not having to deal with the slower, more effortful path. But that feeling didn't last. Once the situation had actually settled, a quieter, more uncomfortable feeling of guilt set in. It wasn't dramatic, more like a nagging awareness that I'd taken the easy way out instead of the right way, and that the speed I gained came at the cost of doing it properly. That gap between the short-term relief and the after-the-fact guilt is something I've noticed applies whenever I cut corners, the fast win rarely feels as good in hindsight as it did in the moment.
 
 ---
 
@@ -209,16 +223,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits — James Clear
+2. The Phoenix Project — Gene Kim, Kevin Behr, George Spafford
+3. The DevOps Handbook — Gene Kim, Jez Humble, Patrick Debois, John Willis
+4. The Psychology of Money — Morgan Housel
+5. Deep Work — Cal Newport
+6. How to Win Friends and Influence People — Dale Carnegie
+7. Extreme Ownership — Jocko Willink, Leif Babin
+8. Can't Hurt Me — David Goggins
+9. Rich Dad Poor Dad — Robert Kiyosaki
+10. The Lean Startup — Eric Ries
 
 ---
 
@@ -247,16 +261,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* AWS certification study hours per week
+* DMI assignments / projects completed and documented
+* GitHub commits and repos shipped
+* Sleep hours per night
+* Workouts per week
+* Focused work sessions completed (Sat/Sun blocks)
+* Screen time / social media usage
+* Monthly investment contribution consistency
+* Spending vs. saving ratio
+* AWS certification progress (exams passed / in progress)
 
 ---
 
@@ -282,7 +296,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+**Yes.** I wrote out everything I needed to do as a to-do list, getting tasks, pending items, and responsibilities out of my head and onto paper so I wasn't holding all of it mentally.
 
 ---
 
@@ -300,7 +314,8 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* Sat: 2-hour focused block (9:00 AM–11:00 AM) — DMI coursework and hands-on practice
+* Sun: 2-hour focused block (9:00 AM–11:00 AM) — weekly review + catch-up on anything unfinished from Saturday
 
 ---
 
@@ -308,11 +323,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Saturdays and Sundays, 9:00 AM–11:00 AM.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+2 sessions per week (weekends only, since weekdays are occupied by my current job).
 
 ---
 
@@ -326,7 +341,9 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Phone stays in another room (or on airplane mode) during the 2-hour focus block.
+* No social media until the session's one clear task is finished.
+* Work from a fixed spot (desk, not bed/couch) to keep the block associated with focus, not casual browsing.
 
 ---
 
@@ -334,28 +351,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that most of what I believe about growth, whether it's reading, investing, or discipline, comes down to the same idea: results that don't show up immediately aren't proof that nothing is happening. I tend to trust the process even when I can't see the payoff yet, and this week made me see that's actually a deliberate mindset choice, not just patience.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I get nervous and anxious pretty easily when things start piling up, and it messes with my focus more than I'd like to admit. Working out daily actually helps a lot with that, it generates endorphins naturally and calms me down when my head's all over the place. What I'm trying to fix this year is staying calm and just checking things off one by one instead of spiraling about everything at once.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+A 2-hour focused work block every Saturday and Sunday from 9:00 AM–11:00 AM, Mozart's Piano Concerto No. 17 playing in the background, phone off, one clear task per session, dedicated to DMI coursework and personal skill-building.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/shen-wei-liew-9341a430b_dmi-devops-micro-internship-with-agentic-activity-7505228692361666560-wF_w`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/posts/shen-wei-liew-9341a430b_dmi-devops-micro-internship-with-agentic-activity-7505228692361666560-wF_w**  
+- Blog / Medium : **N/A (posted on LinkedIn)**  
 
 ---
 

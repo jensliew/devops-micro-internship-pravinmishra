@@ -227,7 +227,8 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-https://lnkd.in/p/gN7EJycT```
+https://www.linkedin.com/posts/shen-wei-liew-9341a430b_dmi-devops-micro-internship-with-agentic-activity-7503494016018214912-A93Q
+```
 
 ---
 
