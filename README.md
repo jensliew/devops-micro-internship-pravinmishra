@@ -130,8 +130,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | [LinkedIn Post](https://www.linkedin.com/posts/shen-wei-liew-9341a430b_dmi-devops-micro-internship-with-agentic-activity-7503494016018214912-A93Q) | [Blog Post](https://www.linkedin.com/posts/shen-wei-liew-9341a430b_dmi-devops-micro-internship-with-agentic-activity-7503494016018214912-A93Q) |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | [LinkedIn Post](https://www.linkedin.com/posts/shen-wei-liew-9341a430b_dmi-devops-micro-internship-with-agentic-activity-7505228692361666560-wF_w) | [Blog Post](https://www.linkedin.com/posts/shen-wei-liew-9341a430b_dmi-devops-micro-internship-with-agentic-activity-7505228692361666560-wF_w) |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
